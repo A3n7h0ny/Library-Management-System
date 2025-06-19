@@ -1,0 +1,201 @@
+| B001 |  |The Silent Patient                      |A.V. Michealides         |Thriller          |120.00   |Available     |English   |4.5  |No  |
+ | B002 |  |Atomic Habits                           |James Clear              |Self-Help         |150.00   |Available     |English   |4.8  |No  |
+ | B003 |  |The Alchemist                           |Paulo Coelho             |Fiction           |250.00   |Available     |English   |4.7  |No  |
+ | B004 |  |The Great Gatsby                        |F. Scott Fitzgerald      |Classic           |85.00    |Available     |English   |4.2  |Yes |
+ | B005 |  |1984                                    |George Orwell            |Dystopian         |190.00   |Available     |English   |4.6  |Yes |
+ | B006 |  |Becoming                                |Michelle Obama           |Biography         |130.00   |Available     |English   |4.8  |No  |
+ | B007 |  |Harry Potter                            |J.K. Rowling             |Fantasy           |500.00   |Not Available |English   |4.9  |No  |
+ | B008 |  |The Hobbit                              |J.R.R. Tolkien           |Fantasy           |105.00   |Available     |English   |4.7  |No  |
+ | B009 |  |The Road                                |C.E. McDonalds           |Horror            |115.00   |Available     |English   |4.3  |Yes |
+ | B010 |  |Sapiens                                 |Yuval Noah Harari        |Non-fiction       |440.00   |Available     |English   |4.9  |Yes |
+ | B011 |  |Rich Dad Poor Dad                       |Peter Kiyosaki           |Finance           |390.00   |Available     |English   |4.5  |No  |
+ | B012 |  |To Kill a Mockingbird                   |Harper Lee               |Classic           |100.00   |Not Available |English   |4.8  |Yes |
+ | B013 |  |The Subtle Art of Not Giving a F*ck     |Mark Manson              |Self-Help         |125.00   |Available     |English   |4.2  |Yes |
+ | B014 |  |The Catcher in the Rye                  |J.D. Salinger            |Classic           |92.00    |Available     |English   |4.0  |Yes |
+ | B015 |  |The Little Prince                       |Antoine de Saint-Exupery |Children          |75.00    |Not Available |French    |4.6  |No  |
+ | B016 |  |The Maze Runner                         |James Dashner            |Sci-Fi            |88.00    |Available     |English   |4.1  |No  |
+ | B017 |  |A Brief History of Time                 |Stephen Hawking          |Science           |135.00   |Available     |English   |4.5  |Yes |
+ | B018 |  |The Fault in Our Stars                  |John Green               |Romance           |102.00   |Not Available |English   |4.4  |Yes |
+ | B019 |  |Pride and Prejudice                     |Jane Austen              |Romance           |80.00    |Available     |English   |4.6  |No  |
+ | B020 |  |Gone Girl                               |Gillian Flynn            |Thriller          |115.00   |Available     |English   |4.3  |Yes |
+ | B021 |  |The Power of Habit                      |Charles Duhigg           |Sci-Fri           |122.00   |Available     |English   |4.6  |No  |
+ | B022 |  |Think and Grow Rich                     |Napoleon Hill            |Sci-Fri           |118.00   |Available     |English   |4.5  |No  |
+ | B023 |  |Educated                                |Tara Westover            |Biography         |133.00   |Available     |English   |4.7  |Yes |
+ | B024 |  |The Book Thief                          |Markus Zusak      	 |Historical Fiction|108.00   |Available     |English   |4.8  |No  |
+ | B025 |  |Inferno                                 |Dan Brown                |Thriller          |120.00   |Available     |English   |4.3  |Yes |
+ | B026 |  |The Shining                             |Stephen King             |Horror            |127.00   |Available     |English   |4.4  |Yes |
+ | B027 |  |Life of Pi                              |Yann Martel              |Adventure         |195.00   |Available     |English   |4.2  |No  |
+ | B028 |  |Dune                                    |Frank Herbert            |Sci-Fi            |130.00   |Available     |English   |4.5  |Yes |
+ | B029 |  |Fahrenheit 451                          |Ray Bradbury             |Dystopian         |298.00   |Not Available |English   |4.4  |Yes | 
+ | B030 |  |The Outsiders                           |S.E. Hinton              |Horror             |285.00   |Available     |English   |4.3  | No | 
+ | B031 |  |The Girl on the Train                   |Paula Hawkins            |Thriller          |135.00   |Available     |English   |4.2  | No |   
+ | B032 |  |Good Girl                               | Gail Flinch             |Thriller          |140.00   |Not Available |English   |4.3  | Yes| 
+ | B033 |  |The Da Vinci Code                       | Dan Brown               |Mystery           |150.00   |Available     |English   |4.0  | No |   
+ | B034 |  |The Shoe                                | G.O.Tambo               |Dystopian         |110.00   |Available     |English   |4.6  | No |   
+ | B035 |  |Goosebumps                              | S.A. Jenner             |Classic           |125.00   |Not Available  |English   |4.7  | Yes|  
+ | B036 |  |The Rabbit                              | K.R.V. Makinwa |   | Fantasy |  160.00  | Available |   | English |  4.5  | No |   
+ | B037 |  |Ride                                    | J.R August |   | Romance |  105.00  | Available |   | English |  4.4  | No |   
+ | B038 |  |The Alchemist                           | P.M.Moagi |   | Fantasy |  295.00  | Not Available |   | English |  4.1  | Yes |   
+ | B039 |  |The Gates of Heaven                     | F.S.Carter |   | Classic |  115.00  | Available |   | English |  4.3  | No |   
+ | B040 |  |Harry Potter and the Sorcerer's Stone   | J.K. Rowling |   | Fantasy |  370.00  | Not Available |   | English |  4.8  | Yes |   
+ | B041 |  |The Shining                             | Stephen King |   | Horror |  130.00  | Available |   | English |  4.4  | No |   
+ | B042 |  |The Catcher in the Rye                  | J.D. Salinger |   | Classic |  100.00  | Available |   | English |  4.0  | No |   
+ | B043 |  |The Martian                             | Andy Weir |   | Sci-Fi |  145.00  | Not Available |   | English |  4.5  | Yes |   
+ | B044 |  |Brave New World                         | Aldous Huxley |   | Dystopian |  120.00  | Available |   | English |  4.2  | No |   
+ | B045 |  |The Lord of the Rings                   | M.R. Toke |   | Fantasy |  200.00  | Available |   | English |  4.9  | No |   
+ | B046 |  |The Road                                | Cormac McCarthy |   | Post-Apocalyptic |  125.00  | Not Available |   | English |  4.3  | Yes |   
+ | B047 |  |Crime and Punishment                    | Fyodor Dostoevsky |   | Classic |  110.00  | Available |   | English |  4.4  | No |   
+ | B048 |  |The Hunger Games                        | Suzanne Collins |   | Dystopian |  135.00  | Available |   | English |  4.3  | No |   
+ | B049 |  |Sapiens                                 | Y.B.Khoza |   | Non-Fiction |  155.00  | Not Available |   | English |  4.6  | Yes |   
+ | B050 |  |The Kite Runner                         | Khaled Hosseini |   | Fiction |  125.00  | Available |   | English |  4.5  | No |   
+ | B051 |  |The Book Thief                          | Marcus Zulu |   | Historical Fiction |  140.00  | Available |   | English |  4.7  | No |   
+ | B052 |  |Dome                                    | Paul Robert |   | Sci-Fi |  165.00  | Not Available |   | English |  4.5  | Yes |   
+ | B053 |  |The Hitchhiker's Guide to the Galaxy    | Douglas Adams |   | Sci-Fi |  115.00  | Available |   | English |  4.4  | No |   
+ | B054 |  |Moby Lick                               | Herman Melville |   | Classic |  105.00  | Available |   | English |  4.1  | No |   
+ | B055 |  |The Night Circus                        | Erin Morgenstern |   | Fantasy |  150.00  | Not Available |   | English |  4.3  | Yes |   
+ | B056 |  |The Handmaid's Tale                     | Margaret Atwood |   | Dystopian |  130.00  | Available |   | English |  4.5  | No |   
+ | B057 |  |The Girl with the Dragon Tattoo         | Stieg Larsson |   | Thriller |  140.00  | Available |   | English |  4.2  | No |   
+ | B058 |  |Frankenstein                            | Mary Shelley |   | Horror |  100.00  | Not Available |   | English |  4.0  | Yes |   
+ | B059 |  |The Name of the Wind                    | Patrick Rothfuss |   | Fantasy |  160.00  | Available |   | English |  4.8  | No |   
+ | B060 |  |The Goldfinch                           | Donna Tartt |   | Fiction |  170.00  | Available |   | English |  4.3  | No |   
+ | B061 |  |The Stand                               | Steve Bricks |   | Horror |  180.00  | Not Available |   | English |  4.6  | Yes |   
+ | B062 |  |The Secret History                      | Don Webster |   | Mystery |  145.00  | Available |   | English |  4.4  | No |   
+ | B063 |  |The Picture of Doris Theng              | Oscar Wilde |   | Classic |  95.00  | Available |   | English |  4.3  | No |   
+ | B064 |  |The Fault in Our Stars                  | Sam Gumede |   | Romance |  120.00  | Not Available |   | English |  4.2  | Yes |   
+ | B065 |  |The Bell Jar                            | Sylvia Plath |   | Classic |  110.00  | Available |   | English |  4.1  | No |   
+ | B066 |  |The Subtle Art                          | Miguel Samson |   | Self-Help |  125.00  | Available |   | English |  4.0  | No |   
+ | B067 |  |Slider                                  | Tamara West |   | Horror |  135.00  | Not Available |   | English |  4.7  | Yes |   
+ | B068 |  |The Silent Patient                      | Alex Michaelides |   | Thriller |  120.00  | Available |   | English |  4.5  | No |   
+ | B069 |  |The Seven Husbands of Evelyn Hugo       | Taylor Jenkins Reid |   | Historical Fiction |  340.00 | Available |  | English |  4.6 | No |   
+ | B070 |  |Project Hail Mary                       | Andile Sthole |   | Sci-Fi |  155.00  | Not Available |   | English | 4.8 | Yes | 
+ | B071 |  |Impi Yabomdabu Isethi                   | Senzeni phakathi |   | Historical Fiction |  110.00  | Available |   | Zulu |  4.3  | No |   
+ | B072 |  |Inkinsela YaseMgungundlovu              | Sibusiso Nyembezi |   | Drama |  95.00  | Not Available |   | Zulu |  4.5  | No |   
+ | B073 |  |Indandatho Yesithembiso                 | S.D.Gatsheni |   | Romance |  85.00  | Available |   | Zulu |  4.0  | No |   
+ | B074 |  |Ubheka                                  | Nhloso Gasa |   | Mystery |  100.00  | Available |   | Zulu |  4.2  | No |   
+ | B075 |  |Izinkomo Zodumo                         | O.E.H. Ndebele |   | Folklore |  90.00  | Not Available |   | Zulu |  4.4  | Yes |   
+ | B076 |  |Amagama Abantu                          | J.L. Vele |   | Poetry |  75.00  | Available |   | Zulu |  4.1  | No |   
+ | B077 |  |Inyoni Kayiphumi Esibhakabhakeni        | C.T. Msimang |   | Fiction |  105.00  | Available |   | Zulu |  4.3  | No |   
+ | B078 |  |Indlela Yababi                          | D.B.Z. Ntuli |   | Thriller |  115.00  | Not Available |   | Zulu |  4.6  | No |   
+ | B079 |  |Uthingo Lwenkosazana                    | P.T. Mtuze |   | Fantasy |  120.00  | Available |   | Zulu |  4.2  | No |   
+ | B080 |  |Isivumelwano                            | M.J. Mngadi |   | Drama |  95.00  | Available |   | Zulu |  4.0  | No |   
+ | B081 |  |Mhudi                                   | Sol Plaatje |   | Historical Fiction |  130.00  | Available |   | Sotho |  4.5  | No |   
+ | B082 |  |Moshoeshoe: Mor'a Mokhachane            | K.E. Ntsane |   | Biography |  110.00  | Not Available |   | Sotho |  4.3  | Yes |   
+ | B083 |  |Bophelo Ke Semphego                     | K.E. Ntsane |   | Philosophy |  100.00  | Available |   | Sotho |  4.1  | No |   
+ | B084 |  |Mokoteli le Mofumahali                  | D.P. Moloi |   | Romance |  85.00  | Available |   | Sotho |  3.9  | No |   
+ | B085 |  |Litsomo                                 | Zanele Mkhabela |   | Folktales |  75.00  | Not Available |   | Sotho |  4.2  | No |   
+ | B086 |  |Pelo e ja Serati                        | Mongezi Maphisa |   | Drama |  90.00  | Available |   | Sotho |  4.0  | No |   
+ | B087 |  |Tshepang le Dinaledi                    | Kedibone Mphahlela |   | Children's |  80.00  | Available |   | Sotho |  4.4  | No |   
+ | B088 |  |Moeletsi oa Basotho                     | Tito Mboweni |   | Historical |  120.00  | Not Available |   | Sotho |  4.3  | Yes |   
+ | B089 |  |Nna Mmutla                             | K.P. Majozi |   | Fable |  65.00  | Available |   | Sotho |  4.1  | No |   
+ | B090 |  |Leeto la Pela                           | Jojo Kwalo |   | Poetry |  70.00  | Available |   | Sotho |  3.8  | No |   
+ | B091 |  |Izulu Elihle                            | B.W. Ndlovu |   | Poetry |  95.00  | Available |   | Zulu |  4.2  | No |   
+ | B092 |  |Uvalo Lwezinhlonzi                      | Nkosiyabo Guduma |   | Horror |  105.00  | Not Available |   | Zulu |  4.5  | No |   
+ | B093 |  |Inyoka Yemfihlo                         | B.Z. Ngubeni |   | Mystery |  110.00  | Available |   | Zulu |  4.3  | No |   
+ | B094 |  |Umshado Wobuqhawe                       | M.T. Magubane |   | Adventure |  100.00  | Available |   | Zulu |  4.1  | No |   
+ | B095 |  |Indaba Zabantu                          | Helen Nxamalala |   | Short Stories |  85.00  | Not Available |   | Zulu |  4.0  | Yes |   
+ | B096 |  |Lerato la Mophato                       | Kutluano Maphalala |   | Romance |  90.00  | Available |   | Sotho |  4.2  | No |   
+ | B097 |  |Mohlokomedi wa Thaba                    | Themba Monametsi |   | Adventure |  115.00  | Available |   | Sotho |  4.4  | No |   
+ | B098 |  |Dithothokiso tsa Basotho                | Z.D. Mangoaela |   | Poetry |  75.00  | Not Available |   | Sotho |  4.3  | No |   
+ | B099 |  |Ubuso Obuhle                            | C.T. Msimang |   | Drama |  95.00  | Available |   | Zulu |  4.1  | No |   
+ | B100 |  |Moea oa Khotso                          | D.P. Moloi |   | Spiritual |  80.00  | Available |   | Sotho |  3.9  | No |   
+ | B101 |  |Izinsizwa Zodumo                        | B.W. Vilakazi |   | Historical |  125.00  | Not Available |   | Zulu |  4.5  | Yes |   
+ | B102 |  |Pelo ea Ka                              | T.Y.Nkuna |   | Poetry |  70.00  | Available |   | Sotho |  4.0  | No |   
+ | B103 |  |Inkanyezi Yobusha                       | Nakanjani Gumbi |   | Coming-of-Age |  105.00  | Available |   | Zulu |  4.2  | No |   
+ | B104 |  |Leeto la Bophelo                        | K.E. Ntsane |   | Philosophy |  100.00  | Not Available |   | Sotho |  4.1  | No |   
+ | B105 |  |Uthando Lwempilo                        | M.T. Mazibuko |   | Health |  90.00  | Available |   | Zulu |  3.8  | No |   
+ | B106 |  |Mohlokomedi wa Lerato                   | K.P.D. Maphalla |   | Romance |  95.00  | Available |   | Sotho |  4.3  | No |   
+ | B107 |  |Izindaba Zasekhaya                      | O.E.H. Nxumalo |   | Family |  85.00  | Not Available |   | Zulu |  4.0  | No |   
+ | B108 |  |Moeletsi oa Bophelo                     | T.M. Mofokeng |   | Self-Help |  110.00  | Available |   | Sotho |  4.2  | No |   
+ | B109 |  |Ukuphila Kwami                          | D.B.Z. Ntuli |   | Memoir |  120.00  | Available |   | Zulu |  4.4  | No |   
+ | B110 |  |Lerato la Nako e Telele                 | M.M. Maphike |   | Romance |  100.00  | Not Available |   | Sotho | 4.1 | Yes | 
+ | B111 |  |The Silent Patient                      | A.I. Mira |   | Thriller |  120.00  | Available |   | English |  4.5  | No | 
+ | B112 |  |Gone Girl                               | Gillian Flynn |   | Thriller |  150.00  | Available |   | English |  4.7  | Yes | 
+ | B113 |  |Sharp Objects                           | G.P. Stone |   | Thriller |  140.00  | Available |   | English |  4.6  | No | 
+ | B114 |  |The Girl on the Train                   | Paula Hawkins |   | Thriller |  160.00  | Available |   | English |  4.5  | Yes | 
+ | B115 |  |The Woman in the Window                 | A.J. Finn |   | Thriller |  180.00  | Available |   | English |  4.4  | No | 
+ | B116 |  |The Last Mrs. Parrish                   | Liv Constantine |   | Psychological Thriller |  120.00  | Available |   | English |  4.3  | Yes | 
+ | B117 |  |The Couple Next Door                    | Shari Lapena |   | Mystery |  140.00  | Available |   | English |  4.2  | No | 
+ | B118 |  |The 7 1/2 Deaths of Evelyn Hardcastle   | Stuart Turton |   | Mystery |  200.00  | Available |   | English |  4.8  | Yes | 
+ | B119 |  |The Devil in the Gray City              | Erik Larson |   | Historical Non-Fiction |  220.00  | Available |   | English |  4.7  | No | 
+ | B120 |  |The Devil Wears Prada                   | Lauren Weisberger |   | Fiction |  160.00  | Available |   | English |  4.6  | Yes | 
+ | B121 |  |The Rosie Project                       | Graeme Simsion |   | Romantic Comedy |  140.00  | Available |   | English |  4.5  | No | 
+ | B122 |  |The Hating Game                         | Sally Thorne |   | Romantic Comedy |  120.00  | Available |   | English |  4.4  | Yes | 
+ | B123 |  |The Unhoneymooners                      | Christina Lauren |   | Romantic Comedy |  160.00  | Available |   | English |  4.3  | No | 
+ | B124 |  |The Royal We                            | Heather Cocks |   | Romance |  180.00  | Available |   | English |  4.2  | Yes | 
+ | B125 |  |The Wedding Date                        | Jasmine Guillory |   | Romance |  140.00  | Available |   | English |  4.1  | No | 
+ | B126 |  |The Friend Zone                         | Kristen Callihan |   | Romance |  160.00  | Available |   | English |  4.0  | Yes | 
+ | B127 |  |The Bride Test                          | Olga Hong |   | Romance |  120.00  | Available |   | English |  4.5  | No | 
+ | B128 |  |The Kiss Quotient                       | H.G. Hoang |   | Romance |  140.00  | Available |   | English |  4.4  | Yes | 
+ | B129 |  |The Honey-Don't List                    | Chris Laundry |   | Romantic Comedy |  160.00  | Available |   | English |  4.3  | No | 
+ | B130 |  |The Deal                                | Elle Kennedy |   | Romance |  140.00  | Available |   | English |  4.2  | Yes | 
+ | B131 |  |The Mistake                             | Elsie Chopper |   | Romance |  160.00  | Available |   | English |  4.1  | No | 
+ | B132 |  |The Off-Campus                          | Ellen Khumalo |   | Romance |  180.00  | Available |   | English |  4.0  | Yes | 
+ | B133 |  |The Time Traveler's Wife                | Audrey Niffenegger |   | Romance |  200.00  | Available |   | English |  4.5  | No | 
+ | B134 |  |The Notebook                            | Nicholas Sparks |   | Romance |  160.00  | Available |   | English |  4.4  | Yes | 
+ | B135 |  |The Fault in Our Stars                  | Johnson White |   | Romance |  140.00 | Not Available |   | English | 4.5 | Yes | 
+ | B136 |  |Whispers of the Hollow Vale             | E.J. Thunderman |   | Fantasy |  145.00  | Available |   | English |  4.8  | No | 
+ | B137 |  |The Last Archivist                      | Mira Callow |   | Science Fiction |  130.00  | Available |   | English |  4.6  | No | 
+ | B138 |  |Velvet Nightmares                       | Cormac Vell |   | Horror |  125.00  | Available |   | English |  4.4  | No | 
+ | B139 |  |Letters from the Rust Sea               | Naomi Fen |   | Adventure |  115.00  | Available |   | English |  4.3  | No | 
+ | B140 |  |The Cartographers Promise               | D.L. Corven |   | Historical Fiction |  150.00  | Available |   | English |  4.9  | No | 
+ | B141 |  |Seraphim of the Shifting Skies          | Aurelia Knox |   | Fantasy |  138.00  | Available |   | English |  4.7  | No | 
+ | B142 |  |The Vanishing Index                     | Harlan Miros |   | Mystery |  110.00  | Available |   | English |  4.1  | No | 
+ | B143 |  |Silica Dreams                           | Kael Rion |   | Science Fiction |  122.00  | Available |   | English |  4.5  | No | 
+ | B144 |  |Nocturne for a Drowned City             | Livia Sund |   | Thriller |  118.00  | Available |   | English |  4.2  | No | 
+ | B145 |  |The Echo Garden                         | Finn Valen |   | Magical Realism |  134.00  | Available |   | English |  4.6  | No | 
+ | B146 |  |Ashes of Forgotten Moons                | Vera Nelcroft |   | Fantasy |  140.00  | Available |   | English |  4.7  | No | 
+ | B147 |  |Code of the Hollow Wind                 | R.D. Strathmore |   | Thriller |  125.00  | Available |   | English |  4.4  | No | 
+ | B148 |  |Winterglass Archives                    | Miren Solace |   | Fantasy |  137.00  | Available |   | English |  4.8  | No | 
+ | B149 |  |The Painted Mind                        | Theo Albright |   | Psychological |  119.00  | Available |   | English |  4.5  | No | 
+ | B150 |  |Labyrinth of the Pale King              | Jenna Crovax |   | Fantasy |  132.00  | Available |   | English |  4.6  | No | 
+ | B151 |  |Tincture of Rain                        | Caleb Dorran |   | Poetry |  105.00  | Available |   | English |  4.1  | No | 
+ | B152 |  |Shadows at Meridian Gate                | Owen Rass |   | Mystery |  126.00  | Available |   | English |  4.3  | No | 
+ | B153 |  |The Archive Beneath                     | L.S. Enwright |   | Science Fiction |  129.00  | Available |   | English |  4.4  | No | 
+ | B154 |  |The Clockmaker's Veil                   | Ivana Myles |   | Historical Fiction |  142.00  | Available |   | English |  4.7  | No | 
+ | B155 |  |Carnelian Sleep                         | Tamsin Dreer |   | Fantasy |  136.00  | Available |   | English |  4.5  | No | 
+ | B156 |  |Dreams of the Bone Orchard              | Elias Quinn |   | Horror |  120.00  | Available |   | English |  4.4  | No | 
+ | B157 |  |A Violet Dusk Remembered                | Nonjabulo Thwala |   | Drama |  115.00  | Available |   | English |  4.2  | No | 
+ | B158 |  |The Ciphered Flame                      | Joel Marris |   | Thriller |  128.00  | Available |   | English |  4.6  | No | 
+ | B159 |  |Mirror of the Breathing Sky             | Kiera Bane |   | Fantasy |  139.00  | Available |   | English |  4.8  | No | 
+ | B160 |  |Waking the Stone Bird                   | Silas Penn |   | Mythology |  135.00  | Available |   | English |  4.7  | No | 
+ | B161 |  |The Forgotten Phonograph                | Albie Rae |   | Mystery |  117.00  | Available |   | English |  4.2  | No | 
+ | B162 |  |Harbor of the Blind Stars               | Lyra Estelle |   | Fantasy |  144.00  | Available |   | English |  4.9  | No | 
+ | B163 |  |Chimeric Crossroads                     | Jonas Falk |   | Science Fiction |  300.00  | Available |   | English |  4.5  | No | 
+ | B164 |  |The Alabaster Automaton                 | Greer L. Dane |   | Steampunk |  126.00  | Available |   | English |  4.4  | No | 
+ | B165 |  |Plague of the Porcelain King            | Nadine Trusk |   | Horror |  123.00  | Available |   | English |  4.1  | No | 
+ | B166 |  |Instruments of the Azure Choir          | Cato Vire |   | Fantasy |  140.00  | Available |   | English |  4.7  | No | 
+ | B167 |  |Codex for a Crimson Tide                | Orla Vane |   | Mystery |  132.00  | Available |   | English |  4.6  | No | 
+ | B168 |  |Eyes Behind the Smoke                   | Dorian Vess |   | Thriller |  125.00  | Available |   | English |  4.5  | No | 
+ | B169 |  |Tenebris Scriptum                       | Lucian Greaves |   | Occult |  138.00  | Available |   | English |  4.6  | No | 
+ | B170 |  |The Sea for a Lantern                   | Maris Tull |   | Adventure |  118.00  | Available |   | English |  4.2  | No | 
+ | B171 |  |Lanterns on the Rift                    | Eloise Vanmeer |   | Fantasy |  136.00  | Available |   | English |  4.8  | No | 
+ | B172 |  |Blood and Birch                         | Jasper Teague |   | Historical Fiction |  134.00  | Available |   | English |  4.5  | No | 
+ | B173 |  |Rainclock Protocol                      | Cynthia Korr |   | Science Fiction |  121.00  | Available |   | English |  4.3  | No | 
+ | B174 |  |The Gilded Scarab                       | Rafi Drom |   | Mystery |  122.00  | Available |   | English |  4.1  | No | 
+ | B175 |  |The Orphan and the Leviathan            | Silvie Renn |   | Fantasy |  137.00  | Available |   | English |  4.6  | No | 
+ | B176 |  |Ink Feathers and Iron Bones             | Desmond Wrye |   | Dark Fantasy |  139.00  | Available |   | English |  4.7  | No | 
+ | B177 |  |Whispers Under Halcyon Sky              | Trina Leigh |   | Drama |  113.00  | Available |   | English |  4.2  | No | 
+ | B178 |  |The Celestial Maw                       | Ansel Dreth |   | Science Fiction |  129.00  | Available |   | English |  4.4  | No | 
+ | B179 |  |Through the Oxblood Mirror              | Harriet Clime |   | Mystery |  124.00  | Available |   | English |  4.3  | No | 
+ | B180 |  |The Garden of Salted Light              | Monica Wens |   | Fantasy |  135.00  | Available |   | English |  4.7  | No | 
+ | B181 |  |Flesh and the Folded Moon               | Terrence Ives |   | Horror |  127.00  | Available |   | English |  4.4  | No | 
+ | B182 |  |The Hollow Crown Affair                 | Vanya Rell |   | Thriller |  121.00  | Available |   | English |  4.5  | No | 
+ | B183 |  |Candlebones                             | Ezra Linne |   | Dark Fantasy |  126.00  | Available |   | English |  4.5  | No | 
+ | B184 |  |Keys to the Windmill Grave              | Marin Elric |   | Mystery |  128.00  | Available |   | English |  4.6  | No | 
+ | B185 |  |Feathers of the Forsaken                | Juno Tress |   | Fantasy |  140.00  | Available |   | English |  4.8  | No | 
+ | B186 |  |The Starless Sum                        | Rhys Banner |   | Science Fiction |  132.00  | Available |  | English | 4.7. | Yes | 
+ | B187 |  |The Library of the Unwritten            | A.J. Hackwith |   | Fantasy |  135.00  | Available |   | English |  4.3  | No | 
+ | B188 |  |The Seven and a Half Deaths of Evelyn   | Cedric Cartloon |   | Mystery |  145.00  | Not Available |   | English |  4.6  | No |    
+ | B189 |  |The Shadow of the Wind                  | Carlos Ruiz Zafon |   | Gothic |  150.00  | Available |   | Spanish |  4.7  | No |  
+ | B190 |  |Piranesi                                | Susanna Clarke |   | Fantasy |  125.00  | Available |   | English |  4.8  | No |   
+ | B191 |  |The Starless Sea                        | Erin Morgenstern |   | Fantasy |  140.00  | Not Available |   | English |  4.4  | Yes | 
+ | B192 |  |House of Leaves                         | Mark Z. Danielewski |   | Horror |  160.00  | Available |   | English |  4.5  | No |  
+ | B192 |  |The Raw Shark Texts                     | Steven Hall |   | Psychological Thriller |  130.00  | Available |   | English |  4.2  | No |  
+ | B193 |  |The Luminous Dead                       | Caitlin Starling |   | Sci-Fi Horror |  120.00  | Not Available |   | English |  4.1  | No |  
+ | B194 |  |The Last House on Needless Street       | Catriona Ward |   | Horror Thriller |  155.00  | Available |   | English |  4.6  | No |    
+ | B195 |  |Bunny                                   | Mona Awad |   | Dark Comedy |  110.00  | Available |   | English |  4.0  | No |   
+ | B196 |  |The Only Good Indians                   | Stephen Graham Jones |   | Horror |  140.00  | Not Available |   | English |  4.3  | No |   
+ | B197 |  |The Cabin at the End of the World       | Paul Tremblay |   | Horror Thriller |  125.00  | Available |   | English |  4.4  | No |    
+ | B198 |  |The Memory Police                       | Yoko Ogawa |   | Dystopian |  130.00  | Available |   | Japanese |  4.5  | No |   
+ | B199 |  |The Employees                           | Olga Ravn |   | Sci-Fi |  115.00  | Not Available |   | Danish |  4.2  | No |  
+ | B200 |  |The Invisible Life of Addie LaRue       | V.E. Schwab |   | Fantasy |  150.00  | Available |   | English | 4.7 | No | ;

@@ -1,0 +1,52 @@
+ 
+ID number: A001, Name: Lethukukhanya, Surname: Mhlongo, Username: le2k_mhlongo, Password: P1llow&55, Occupation: library Director, Email: lethukukhanyamhl@gmail.com,  
+ID number: A002, Name: Phillips, Surname: Chauke, Username: chauke_p40, Password: rex$654y, Occupation: library manager, Email: phillipschauke24@gmail.com, 
+ID number: A003, Name: Philiswa, Surname: Cele, Username: phili_cele13, Password: jok3$765, Occupation: library administrator, Email: philiswacele@gmail.com, 
+ID number: A004, Name: Kentrell, Surname: Gaulden, Username: young.boy_nba, Password: money#3$, Occupation: budget officer, Email: kentrellgaulden@gmail.com, 
+ID number: A005, Name: Jermaine, Surname: Cole, Username: j.cole28, Password: Allmylyf#^, Occupation: archivist, Email: jermainecole@gmail.com, 
+ID number: A006, Name: Ibrahim, Surname: Hamad, Username: ibrahim_ham33, Password: hjks33%$2, Occupation: reference librarian, Email: ibrahimhamad@gmail.com, 
+ID number: A007, Name: Siyabonga, Surname: Ntuli, Username: sky.boi33, Password: kisg&5##r, Occupation: cataloging librarian, Email: siyantuli@gmail.com, 
+ID number: A008, Name: Nomcebo, Surname: Zikode, Username: nomcebo_zee, Password: jloo87@t, Occupation: acquisition librarian, Email: nomcebozikode@gmail.com,  
+ID number: A009, Name: Andiswa, Surname: Ntaba, Username: sunny_hill, Password: yer@45^, Occupation: collection dev librarian, Email: andiswantaba@gmail.com, 
+ID number: A010, Name: Petunia, Surname: Mgedeza, Username: petu_mge77, Password: dytr@45&, Occupation: cheif archivist, Email: petuniamgedeza23@gmail.com,  
+ID number: A011, Name: Lena, Surname: Carter, Username: lena_wave, Password: byse#^12, Occupation: shelver, Email: lenacarter243@gmail.com, 
+ID number: A012, Name: Marcus, Surname: Doyle, Username: doyle.zone, Password: mjst346$#, Occupation: network support specialist, Email: marcusdoyle3@gmail.com,  
+ID number: A013, Name: Aria, Surname: Kim, Username: aria_star1, Password: nhst57@l, Occupation: database manager, Email: ariakim09@gmail.com, 
+ID number: A014, Name: Jasper, Surname: Singh, Username: j_spectrum, Password: yedrfd#$66, Occupation: metadata specialist, Email: jaspersingh@gmail.com,  
+ID number: A015, Name: Nina, Surname: Alvarez, Username: nina_live, Password: trefdf55!&g, Occupation: records manager, Email: ninalvarez22@gmail.com, Phone: 
+ID number: A016, Name: Ethan, Surname: Brooks, Username: ethan_byte, Password: mwwrty$$563, Occupation: social media manager, Email: ethanbrooks@gmail.com, Phone: 
+ID number: A017, Name: Chloe, Surname: Bennett, Username: chloe.codes9, Password: loki12!7$, Occupation: library IT support technician, Email: chloebennett@gmail.com, 
+ID number: A018, Name: Samir, Surname: Patel, Username: samirp_93, Password: dytd^54!, Occupation: network technician, Email: samirpatel1@gmail.com, 
+ID number: A019, Name: Khanyisa, Surname: Jaceni, Username: star_light, Password: jdsfg5$#, Occupation: web services librarian, Email: khanyisajaceni@gmail.com, Phone: 
+ID number: A020, Name: Mashiyanoke, Surname: Nkadimeng, Username: shiya_lakhe, Password: lousg823$#, Occupation: cybersecurity officcer, Email: mashiyanoken@gmail.com, 
+ID number: A021, Name: Veronica, Surname: Mutama, Username: vero_nica, Password: jaiye@1645%, Occupation: cataloger, Email: veronicamutama@gmail.com, Phone: 
+ID number: A022, Name: Gosiame, Surname: Mahika, Username: slenkere_908, Password: ufybr77^&, Occupation: library systems analyst, Email: gosiamemahika@gmail.com,
+ID number: A023, Name: Sibusiso, Surname: Mkhawuzaza, Username: lesh_zaza7, Password: leshutg#@656, Occupation: digital repository manager, Email: sibusisom@gmail.com,
+ID number: A024, Name: Gcinokuhle, Surname: Hlongwane, Username: last_born26, Password: pokdu#@55, Occupation: assistant manager, Email: gcinahlongwane33@gmail.com,
+ID number: A025, Name: Katlego, Surname: Nhlanzi, Username: kay_dot, Password: Dskh77&%h, Occupation: digital archivist, Email: katlegonhlanzi@gmail.com, 
+ID number: A026, Name: Emily, Surname: Mahindra, Username: emmie_hush, Password: upn8yb^&, Occupation: UX librarian, Email: emilymahindra@gmail.com, Phone: 
+ID number: A027, Name: Thoko, Surname: simelane, Username: slender_98, Password: mjhkk&^77, Occupation: materials selector, Email: thokosimelane@gmail.com, Phone: 
+ID number: A028, Name: Mbali, Surname: Nkosi, Username: best_cook, Password: okiun9##7, Occupation: intern digital archivist, Email: mbalinkosi88@gmail.com, Phone: 
+ID number: A029, Name: singabakhe, Surname: Ngobese, Username: singa.bese37, Password: yhyh#213$, Occupation: janitor, Email: singangobese33@gmail.com, Phone: 
+ID number: A030, Name: Khwezi, Surname: Velakhe, Username: nkarr_very, Password: moki#2@!0, Occupation: driver/delivery, Email: khwezivelakhe@gmail.com, Phone: 
+ID number: A031, Name: kyle, Surname: Villers, Username: king_k, Password: klki#0@!, Occupation: driver/delivery, Email: kylevillers@gmail.com, Phone: 
+ID number: A032, Name: Khloe, Surname: Mnguni, Username: khloe_clouds, Password: khloe53#%, Occupation: courier, Email: khloemnguni81@gmail.com, Phone: 
+ID number: A033, Name: Harry, Surname: Potter, Username: wizard_potter, Password: gtaf%450, Occupation: janitor, Email: harrypotter@gmail.com, Phone: 
+ID number: A034, Name: Lehasa, Surname: Maphosa, Username: book_lover, Password: cymdv#221@, Occupation: custodian, Email: lehasamaphosa@gmail.com, Phone: 
+ID number: A035, Name: gugulethu, Surname: vele, Username: gugu_lethu, Password: mjoge&@30, Occupation: security, Email: gugulethuvele@gmail.com, Phone: 
+ID number: A036, Name: Bisisiwe, Surname: Summer, Username: bee_summer, Password: vgiyd23!0, Occupation: maintenance worker, Email: busisiwesummer@gmail.com, Phone: 
+ID number: A037, Name: Vusi, Surname: Longwe, Username: taa_vura, Password: ghyhy@#60, Occupation: maintenance worker, Email: vusilongwe@gmail.com, Phone: 
+ID number: A038, Name: Zizi, Surname: kodwa, Username: lol_ry, Password: momo@77, Occupation: UX/UI designer, Email: zizikodwa@gmail.com, Phone: 
+ID number: A039, Name: Kamo, Surname: Long, Username: muni_long, Password: joim@t5, Occupation: security, Email: kamolong@gmail.com, Phone: 
+ID number: A040, Name: Zweli, Surname: Phakathi, Username: lala_land, Password: kool!223$, Occupation: budget analyst, Email: zweliphakathi@gmail.com, Phone: 
+ID number: A041, Name: Noah, Surname: Blake, Username: nosinclair_88, Password: bl@k3Thud3, Occupation: receptionist, Email: znoahblake98@gmail.com, Phone: 
+ID number: A042, Name: Olivia, Surname: Knight, Username: oli_knight7, Password: kn!ght75, Occupation: integrated library systems manager, Email: oliviak@gmail.com,
+ID number: A043, Name: Ava, Surname: Hale, Username: avahale_23, Password: kh@les3#7, Occupation: software developer, Email: avahale876@gmail.com, Phone: 
+ID number: A044, Name: Mason, Surname: Stone, Username: mase_stone4, Password: $ton3456, Occupation: IT specialist, Email: masonstone66@gmail.com, Phone: 
+ID number: A045, Name: Isabella, Surname: Brooks, Username: issy_bee45, Password: br00$fox, Occupation: assistant reference librarian, Email: isabellabrooks@gmail.com, 
+ID number: A046, Name: Henry, Surname: Hut, Username: kid_danger, Password: f!r3bio89, Occupation: digitization specialist, Email: henryhut538@gmail.com, Phone: 
+ID number: A047, Name: Jabulani, Surname: Zuma, Username: jay_bee, Password: j@bul@n!123, Occupation: outreach librarian, Email: jabulanizuma@gmail.com, Phone: 
+ID number: A048, Name: Grant, Surname: Harper, Username: wish_granter, Password: gr@nt33^, Occupation: circulation supervisor, Email: grantharper@gmail.com, Phone: 
+ID number: A049, Name: Lucas, Surname: Wolfe, Username: chaser_storm, Password: w0lf33@, Occupation: interlibrary loan assistant, Email: lucaswolfe90@gmail.com, Phone: 
+ID number: A050, Name: Mia, Surname: Chase, Username: mia_chase21, Password: ch@$3r12, Occupation: interlibrary loan, Email: miachase34@gmail.com, Phone:
+ID number: null, Name: Tony, Surname: D, Username: tonyD, Password: dezz, Occupation: king of the pirates, Email: bomphv@gmail.com
